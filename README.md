@@ -1,2 +1,3 @@
 # First2
 Server Repository
+This is for learning how git works......
